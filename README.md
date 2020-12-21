@@ -1,0 +1,1 @@
+# buySellOnEqualPeriod.mq4
